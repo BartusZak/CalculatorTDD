@@ -10,7 +10,6 @@ C:\Users\bplos\Source\Repos\Calculator\Calculator\obj\Debug\netcoreapp2.0\Calcul
 C:\Users\bplos\Source\Repos\CalculatorTDD\Calculator\bin\Debug\netcoreapp2.0\Calculator.deps.json
 C:\Users\bplos\Source\Repos\CalculatorTDD\Calculator\bin\Debug\netcoreapp2.0\Calculator.dll
 C:\Users\bplos\Source\Repos\CalculatorTDD\Calculator\bin\Debug\netcoreapp2.0\Calculator.pdb
-C:\Users\bplos\Source\Repos\CalculatorTDD\Calculator\obj\Debug\netcoreapp2.0\Calculator.csprojResolveAssemblyReference.cache
 C:\Users\bplos\Source\Repos\CalculatorTDD\Calculator\obj\Debug\netcoreapp2.0\Calculator.csproj.CoreCompileInputs.cache
 C:\Users\bplos\Source\Repos\CalculatorTDD\Calculator\obj\Debug\netcoreapp2.0\Calculator.AssemblyInfoInputs.cache
 C:\Users\bplos\Source\Repos\CalculatorTDD\Calculator\obj\Debug\netcoreapp2.0\Calculator.AssemblyInfo.cs

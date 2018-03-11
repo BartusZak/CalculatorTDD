@@ -5,6 +5,8 @@ namespace Calculator.Tests
 {
     public class CalculatorTests
     {
+        
+
         [Fact]
         public void Add_AddsTwoPositiveNumbers_Calculated()
         {
