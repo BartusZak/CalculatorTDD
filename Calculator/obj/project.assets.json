@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bplos\\Source\\Repos\\Calculator\\Calculator\\Calculator.csproj",
+      "projectUniqueName": "C:\\Users\\bplos\\Source\\Repos\\CalculatorTDD\\Calculator\\Calculator.csproj",
       "projectName": "Calculator",
-      "projectPath": "C:\\Users\\bplos\\Source\\Repos\\Calculator\\Calculator\\Calculator.csproj",
+      "projectPath": "C:\\Users\\bplos\\Source\\Repos\\CalculatorTDD\\Calculator\\Calculator.csproj",
       "packagesPath": "C:\\Users\\bplos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bplos\\Source\\Repos\\Calculator\\Calculator\\obj\\",
+      "outputPath": "C:\\Users\\bplos\\Source\\Repos\\CalculatorTDD\\Calculator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

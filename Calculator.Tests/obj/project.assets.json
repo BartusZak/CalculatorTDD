@@ -5735,11 +5735,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bplos\\Source\\Repos\\Calculator\\Calculator.Tests\\Calculator.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\bplos\\Source\\Repos\\CalculatorTDD\\Calculator.Tests\\Calculator.Tests.csproj",
       "projectName": "Calculator.Tests",
-      "projectPath": "C:\\Users\\bplos\\Source\\Repos\\Calculator\\Calculator.Tests\\Calculator.Tests.csproj",
+      "projectPath": "C:\\Users\\bplos\\Source\\Repos\\CalculatorTDD\\Calculator.Tests\\Calculator.Tests.csproj",
       "packagesPath": "C:\\Users\\bplos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bplos\\Source\\Repos\\Calculator\\Calculator.Tests\\obj\\",
+      "outputPath": "C:\\Users\\bplos\\Source\\Repos\\CalculatorTDD\\Calculator.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5758,8 +5758,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\bplos\\Source\\Repos\\Calculator\\Calculator\\Calculator.csproj": {
-              "projectPath": "C:\\Users\\bplos\\Source\\Repos\\Calculator\\Calculator\\Calculator.csproj"
+            "C:\\Users\\bplos\\Source\\Repos\\CalculatorTDD\\Calculator\\Calculator.csproj": {
+              "projectPath": "C:\\Users\\bplos\\Source\\Repos\\CalculatorTDD\\Calculator\\Calculator.csproj"
             }
           }
         }
